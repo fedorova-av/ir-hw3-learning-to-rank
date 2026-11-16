@@ -1,0 +1,9 @@
+.venv/
+data/
+__pycache__/
+catboost_info/
+*.zip
+*.bin
+*.cbm
+submission*.csv
+artifacts/
